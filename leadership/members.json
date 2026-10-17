@@ -1,0 +1,93 @@
+{
+  "board": [
+    {
+      "id": "gideon",
+      "name": "Gideon",
+      "portrait": "gideon-engineer-bandage.svg",
+      "role": "Board Member & Founding Investor",
+      "bio": "Dad. Builder. Turns “can we make this?” into “let’s give it a try.” As a board member and founding investor, Gideon supports the children with investment, technical resources and mentorship while they lead their own projects and businesses."
+    }
+  ],
+  "leadership": [
+    {
+      "id": "kaylie",
+      "name": "Kaylie",
+      "portrait": "Kaylie_avatar.png",
+      "role": "Chief Imagination Officer",
+      "bio": "Big ideas start with “what if?” Kaylie brings imagination, curiosity and creative possibilities to the projects we make together.",
+      "tag": "THE BIG-IDEA DEPARTMENT",
+      "footer": "IMAGINE WHAT COMES NEXT"
+    },
+    {
+      "id": "owen",
+      "name": "Owen",
+      "portrait": "owen.svg",
+      "role": "Chief Game Designer",
+      "bio": "Designing the gameplay, dreaming up challenges and helping turn new ideas into games we can play together.",
+      "tag": "THE GAMEPLAY DEPARTMENT",
+      "footer": "LET’S MAKE SOMETHING FUN"
+    },
+    {
+      "id": "bella",
+      "name": "Bella",
+      "portrait": "bella.svg",
+      "role": "Legendary Gamer",
+      "bio": "If there’s a glitch, Bella will find it. If there isn’t, give her five minutes. In charge of epic play-tests, impossible button combos and telling Owen, “I broke it again.”",
+      "tag": "THE FINAL BOSS",
+      "footer": "BUGS FEAR HER. OWEN TAKES NOTES."
+    },
+    {
+      "id": "gideon",
+      "name": "Gideon",
+      "portrait": "gideon-engineer-bandage.svg",
+      "role": "Chief Engineer",
+      "bio": "Dad. Builder. Supports our young leaders with the engineering and technical resources to bring their ideas to life.",
+      "tag": "ADULT SUPPORT · ENGINEERING",
+      "footer": "HELPING YOUNG IDEAS TAKE SHAPE"
+    }
+  ],
+  "open_roles": [
+    {
+      "id": "ceo",
+      "title": "Chief Executive Officer (CEO)",
+      "tagline": "Anyone want to step up to be the CEO?",
+      "description": "Bring your big idea, gather a crew and lead a project. We can have more than one CEO: different projects need different captains!"
+    },
+    {
+      "id": "marketing",
+      "title": "Chief Buzz Maker",
+      "tagline": "Help great ideas get noticed.",
+      "description": "Dream up posters, catchy messages and fun ways to tell the world what we’re making. Big imagination beats a big follower count."
+    },
+    {
+      "id": "communications",
+      "title": "Chief Story Sharer",
+      "tagline": "Be the voice of our adventures.",
+      "description": "Share team news, celebrate little wins and help everyone follow what we’re dreaming up next."
+    },
+    {
+      "id": "game-architect",
+      "title": "Chief Game Editor",
+      "tagline": "One more go? That’s your department.",
+      "description": "Play-test our games, spot the tricky bits and suggest better rules, levels and challenges. Team up with Owen to make every round more fun."
+    },
+    {
+      "id": "journalism-head",
+      "title": "Chief News Editor",
+      "tagline": "Big curiosity. Zero brain rot.",
+      "description": "Check the facts, polish the words and help choose stories that make kids say “wait, really?” Keep our newsroom thoughtful, kind and full of discoveries."
+    },
+    {
+      "id": "book-explorer",
+      "title": "Book Explorer",
+      "tagline": "Find our next can’t-put-it-down read.",
+      "description": "Explore new books, tell us what made you laugh or wonder, and help choose the next adventures for our bookshelf."
+    },
+    {
+      "id": "journalist",
+      "title": "Curiosity Reporter",
+      "tagline": "What made you say “wow” today?",
+      "description": "Everyone is welcome to share a discovery. Send a story and its source; after review, published posts get an author credit and date. Let’s learn from each other!"
+    }
+  ]
+}

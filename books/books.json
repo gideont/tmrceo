@@ -1,0 +1,56 @@
+[
+  {
+    "id": "wild-robot",
+    "title": "The Wild Robot",
+    "author": "Peter Brown",
+    "isbn": "9780316381994",
+    "theme": "Kindness & invention",
+    "description": "A robot on a wild island discovers how much there is to learn from the creatures around her.",
+    "source_url": "https://www.peterbrownstudio.com/books/the-wild-robot/"
+  },
+  {
+    "id": "beetle-boy",
+    "title": "Beetle Boy",
+    "author": "M. G. Leonard",
+    "isbn": "9781910002704",
+    "theme": "Curiosity & courage",
+    "description": "A missing dad, remarkable beetles and a mystery that rewards a very curious mind.",
+    "source_url": "https://shop.scholastic.co.uk/products/The-Battle-of-the-Beetles-number-1-Beetle-Boy-M-G-Leonard-9781910002704"
+  },
+  {
+    "id": "ickabog",
+    "title": "The Ickabog",
+    "author": "J. K. Rowling",
+    "isbn": "9781338732870",
+    "theme": "Truth & bravery",
+    "description": "An imaginary kingdom, a mysterious monster and children brave enough to question the story.",
+    "source_url": "https://www.scholastic.com/site/theickabog.html"
+  },
+  {
+    "id": "worlds-worst-children",
+    "title": "The World’s Worst Children",
+    "author": "David Walliams",
+    "isbn": "9780008197032",
+    "theme": "Mischief & laughter",
+    "description": "A collection of outrageous cautionary tales, full of ridiculous behaviour and comic consequences.",
+    "source_url": "https://www.harperreach.com/products/the-worlds-worst-children-1-david-walliams-9780008197056/"
+  },
+  {
+    "id": "eyes-and-impossible",
+    "title": "The Eyes and the Impossible",
+    "author": "Dave Eggers",
+    "isbn": "9781524764203",
+    "theme": "Freedom & friendship",
+    "description": "See a park through the eyes of a fast-running dog with a big heart and an unlikely circle of friends.",
+    "source_url": "https://www.penguinrandomhouse.com/books/553857/the-eyes-and-the-impossible-by-dave-eggers-illustrated-by-shawn-harris/"
+  },
+  {
+    "id": "one-and-only-ivan",
+    "title": "The One and Only Ivan",
+    "author": "Katherine Applegate",
+    "isbn": "9780061992278",
+    "theme": "Empathy & hope",
+    "description": "An artistic gorilla tells a moving story about friendship and imagining a better future.",
+    "source_url": "https://www.theoneandonlyivan.com/"
+  }
+]

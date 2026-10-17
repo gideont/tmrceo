@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 190">
+<title>Gideon the beaver engineer, wearing a safety hard hat with an arm in a cast and sling</title>
+<g stroke="#383e31" stroke-linecap="round" stroke-linejoin="round">
+<path d="M160 168q20-61 48-48 20 14-4 43-14 18-44 5Z" fill="#95704e" stroke-width="4"/>
+<path d="m176 153 21-21m-14 31 23-25m-25-4 22 16m-28-7 22 17" stroke="#684d38" stroke-width="2"/>
+<path d="M55 180q0-45 65-45 53 0 59 45" fill="#9e7753" stroke-width="4"/>
+<path d="m76 149 28 1 15 12 16-12 29 3 5 34H72Z" fill="#edbd61" stroke-width="3"/>
+<path d="M91 158v27m56-28v28" stroke="#fff4ca" stroke-width="5"/>
+<circle cx="73" cy="57" r="19" fill="#9e7753" stroke-width="4"/>
+<circle cx="164" cy="57" r="19" fill="#9e7753" stroke-width="4"/>
+<circle cx="73" cy="57" r="10" fill="#d2a37b" stroke="none"/>
+<circle cx="164" cy="57" r="10" fill="#d2a37b" stroke="none"/>
+<path d="M58 100q0-53 61-53t61 53q0 56-61 56t-61-56Z" fill="#b78b60" stroke-width="4"/>
+<!-- Bright safety helmet, with a raised centre ridge and wide brim. -->
+<path d="M65 56q1-39 53-40 52 0 55 40Z" fill="#edbd61" stroke-width="4"/>
+<path d="M109 18q9-6 18 0l3 38h-24Z" fill="#f7d67b" stroke-width="3"/>
+<path d="M80 45q3-15 18-20m40 0q14 6 18 20" fill="none" stroke="#d79a38" stroke-width="4"/>
+<path d="M60 54h117q7 0 7 6t-7 6H60q-7 0-7-6t7-6Z" fill="#f7cf69" stroke-width="4"/>
+<path d="M70 59h27m45 0h25" stroke="#fff1b6" stroke-width="2"/>
+<ellipse cx="92" cy="92" rx="4" ry="6" fill="#383e31" stroke="none"/>
+<ellipse cx="147" cy="92" rx="4" ry="6" fill="#383e31" stroke="none"/>
+<ellipse cx="102" cy="119" rx="23" ry="17" fill="#e2bd91" stroke-width="2"/>
+<ellipse cx="137" cy="119" rx="23" ry="17" fill="#e2bd91" stroke-width="2"/>
+<path d="M108 130h23v20h-23Z" fill="#fffdf5" stroke-width="3"/>
+<path d="M119 132v17" stroke-width="2"/>
+<path d="M110 107q9-8 19 0-1 11-10 11t-9-11Z" fill="#383e31" stroke-width="2"/>
+<path d="m63 112 15 2m-13 7 13-2m83-5 15-2m-15 7 13 2" stroke-width="2"/>
+<!-- One arm safely wrapped in a cast and supported by a sling. -->
+<path d="m166 145-20 30" fill="none" stroke="#648598" stroke-width="5"/>
+<path d="M79 161q14 29 62 20l14-21q-33 15-76 1Z" fill="#8eafbd" stroke-width="3"/>
+<g transform="rotate(-8 118 167)">
+<rect x="82" y="155" width="68" height="23" rx="6" fill="#fffdf5" stroke-width="3"/>
+<path d="M95 157v19m12-19v19m12-19v19m12-19v19m11-19v18" stroke="#d2d6cb" stroke-width="2"/>
+<path d="M83 160h8m-8 6h8" stroke="#e8eadd" stroke-width="2"/>
+</g>
+<path d="M87 177q23 12 55 3" fill="none" stroke="#648598" stroke-width="3"/>
+</g></svg>
